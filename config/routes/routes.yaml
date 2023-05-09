@@ -1,0 +1,4 @@
+# config/routes.yaml
+accueil:
+  path: /
+  controller: App\Controller\AccueilController::index
